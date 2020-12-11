@@ -1,0 +1,47 @@
+,,,"Uxbridge, Township [Census subdivision], Ontario",,,,,,"Durham, Regional municipality [Census division], Ontario"
+"Topic","Characteristics","Note","Total","Flag_Total","Male","Flag_Male","Female","Flag_Female","Total","Flag_Total","Male","Flag_Male","Female","Flag_Female"
+,,,"Counts (unless otherwise specified)",,,,,,
+"Visible minority population","Total - Visible minority for the population in private households - 25% sample data",95,   20975,,   10340,,   10630,,  639495,,  312280,,  327210,
+"Visible minority population","  Total visible minority population",96,    1205,,     590,,     620,,  173330,,   84430,,   88900,
+"Visible minority population","    South Asian",97,     165,,      85,,      85,,   55025,,   27625,,   27395,
+"Visible minority population","    Chinese",,     240,,     110,,     140,,   12105,,    5785,,    6315,
+"Visible minority population","    Black",,     255,,     135,,     120,,   51380,,   24385,,   27000,
+"Visible minority population","    Filipino",,      90,,      35,,      60,,   14530,,    6660,,    7865,
+"Visible minority population","    Latin American",,      95,,      45,,      50,,    6135,,    3100,,    3035,
+"Visible minority population","    Arab",,      50,,      30,,      25,,    5780,,    3080,,    2700,
+"Visible minority population","    Southeast Asian",98,      15,,      10,,      10,,    2395,,    1045,,    1345,
+"Visible minority population","    West Asian",99,      70,,      40,,      35,,    6565,,    3320,,    3245,
+"Visible minority population","    Korean",,      20,,      15,,      10,,    1165,,     585,,     575,
+"Visible minority population","    Japanese",,      40,,      20,,      20,,    1415,,     695,,     720,
+"Visible minority population","    Visible minority; n.i.e.",100,      95,,      50,,      45,,    8380,,    3920,,    4455,
+"Visible minority population","    Multiple visible minorities",101,      65,,      30,,      35,,    8475,,    4230,,    4240,
+"Visible minority population","  Not a visible minority",102,   19765,,    9755,,   10015,,  466165,,  227850,,  238310,
+
+Symbols:
+
+Notes:
+95, Visible minority refers to whether a person belongs to a visible minority group as defined by the Employment Equity Act and  if so  the visible minority group to which the person belongs. The Employment Equity Act defines visible minorities as "persons  other than Aboriginal peoples  who are non-Caucasian in race or non-white in colour." The visible minority population consists mainly of the following groups: South Asian  Chinese  Black  Filipino  Latin American  Arab  Southeast Asian  West Asian  Korean and Japanese.
+,For more information on the Visible minority variable  including information on its classification  the questions from which it is derived  data quality and its comparability with other sources of data  please refer to the Visible Minority and Population Group Reference Guide  Census of Population  2016.
+96, The Employment Equity Act defines visible minorities as 'persons  other than Aboriginal peoples  who are non-Caucasian in race or non-white in colour.'
+97, For example  'East Indian ' 'Pakistani ' 'Sri Lankan'  etc.
+98, For example  'Vietnamese ' 'Cambodian ' 'Laotian ' 'Thai ' etc.
+99, For example  'Afghan ' 'Iranian ' etc.
+100, The abbreviation 'n.i.e.' means 'not included elsewhere.' Includes persons with a write-in response such as 'Guyanese ' 'West Indian ' 'Tibetan ' 'Polynesian ' 'Pacific Islander ' etc.
+101, Includes persons who gave more than one visible minority group by checking two or more mark-in responses  e.g.  'Black' and 'South Asian.'
+102, Includes persons who reported 'Yes' to the Aboriginal group question (Question 18)  as well as persons who were not considered to be members of a visible minority group.
+
+Data quality:
+Uxbridge; Township [Census subdivision]; Ontario
+Global non-response rate (GNR)  short-form census questionnaire: 3.2%
+Global non-response rate (GNR)  long-form census questionnaire: 4.2%
+
+Durham; Regional municipality [Census division]; Ontario
+Global non-response rate (GNR)  short-form census questionnaire: 3.0%
+Global non-response rate (GNR)  long-form census questionnaire: 4.0%
+
+
+"Source: Statistics Canada, 2016 Census of Population."
+
+How to cite: Statistics Canada. 2017. Census Profile. 2016 Census.
+Statistics Canada Catalogue no. 98-316-X2016001. Ottawa. Released November 29 2017.
+http://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/index.cfm?Lang=E

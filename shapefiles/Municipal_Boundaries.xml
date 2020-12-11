@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <origin/>
+                <pubdate>20170914</pubdate>
+                <title>Municipal Boundaries</title>
+                <geoform>vector digital data</geoform>
+                <onlink>https://maps.durham.ca/arcgis/rest/services/Open_Data/Durham_OpenData/MapServer/1</onlink>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>Municipal Boundaries is polygon data which represents the lower-tier municipal boundaries within the Durham Region.</abstract>
+            <purpose>The purpose of this dataset is to spatially represent the jurisdicitonal boundaries of lower-tier municipalities in Durham Region. This dataset has been used internally at the Region of Durham for a number of years and is now available to the public as open data.</purpose>
+        </descript>
+        <timeperd>
+            <timeinfo>
+                <rngdates>
+                    <begdate>20080101</begdate>
+                    <enddate>20170914</enddate>
+                </rngdates>
+            </timeinfo>
+            <current>End date of temporal extent represents the last time the metadata for extent was reviewed. Data within this dataset is potentially updated more frequently.</current>
+        </timeperd>
+        <status>
+            <progress>Complete</progress>
+            <update>As needed</update>
+        </status>
+        <spdom>
+            <bounding>
+                <westbc>-79.3076</westbc>
+                <eastbc>-78.4891</eastbc>
+                <northbc>44.4642</northbc>
+                <southbc>43.7979</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>ISO 19115 Topic Categories</themekt>
+                <themekey>boundaries</themekey>
+            </theme>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Municipal</themekey>
+                <themekey>Boundaries</themekey>
+                <themekey>Durham</themekey>
+                <themekey>Clarington</themekey>
+                <themekey>Oshawa</themekey>
+                <themekey>Whitby</themekey>
+                <themekey>Ajax</themekey>
+                <themekey>Pickering</themekey>
+                <themekey>Uxbridge</themekey>
+                <themekey>Scugog</themekey>
+                <themekey>Brock</themekey>
+                <themekey>Durham Boundaries</themekey>
+                <themekey>Jurisdiction</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>Open Data License</useconst>
+        <ptcontac>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>Region of Durham</cntorg>
+                </cntorgp>
+                <cntaddr>
+                    <addrtype>physical</addrtype>
+                    <address>605 Rossland Road East</address>
+                    <city>Whitby</city>
+                    <state>Durham Region</state>
+                    <postal>L1N 6A3</postal>
+                    <country>CA</country>
+                </cntaddr>
+                <cntvoice>905-668-7711</cntvoice>
+                <cntemail>opendata@durham.ca</cntemail>
+            </cntinfo>
+        </ptcontac>
+        <datacred>Region of Durham</datacred>
+    </idinfo>
+    <spdoinfo>
+        <direct>Vector</direct>
+    </spdoinfo>
+    <metainfo>
+        <metd>20170914</metd>
+        <metc>
+            <cntinfo>
+                <cntperp>
+                    <cntper>Region of Durham</cntper>
+                </cntperp>
+                <cntaddr>
+                    <addrtype>physical</addrtype>
+                    <address>605 Rossland Road East</address>
+                    <city>Whitby</city>
+                    <state>Durham Region</state>
+                    <postal>L1N 6A3</postal>
+                    <country>CA</country>
+                </cntaddr>
+                <cntvoice>905-668-7711</cntvoice>
+                <cntemail>opendata@durham.ca</cntemail>
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>

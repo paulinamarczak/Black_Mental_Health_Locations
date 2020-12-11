@@ -1,0 +1,47 @@
+,,,"Brock, Township [Census subdivision], Ontario",,,,,,"Sunderland [Population centre], Ontario"
+"Topic","Characteristics","Note","Total","Flag_Total","Male","Flag_Male","Female","Flag_Female","Total","Flag_Total","Male","Flag_Male","Female","Flag_Female"
+,,,"Counts (unless otherwise specified)",,,,,,
+"Visible minority population","Total - Visible minority for the population in private households - 25% sample data",95,   11360,,    5585,,    5770,,    1210,,     525,,     685,
+"Visible minority population","  Total visible minority population",96,     315,,     155,,     160,,       0,,       0,,       0,
+"Visible minority population","    South Asian",97,      70,,      40,,      35,,       0,,       0,,       0,
+"Visible minority population","    Chinese",,      45,,      20,,      20,,       0,,       0,,       0,
+"Visible minority population","    Black",,      40,,      25,,      15,,       0,,       0,,       0,
+"Visible minority population","    Filipino",,      35,,      10,,      25,,       0,,       0,,       0,
+"Visible minority population","    Latin American",,      25,,      10,,      15,,       0,,       0,,       0,
+"Visible minority population","    Arab",,       0,,       0,,       0,,       0,,       0,,       0,
+"Visible minority population","    Southeast Asian",98,      15,,       0,,      10,,       0,,       0,,       0,
+"Visible minority population","    West Asian",99,      10,,      10,,       0,,       0,,       0,,       0,
+"Visible minority population","    Korean",,      40,,      15,,      20,,       0,,       0,,       0,
+"Visible minority population","    Japanese",,      15,,      10,,      10,,       0,,       0,,       0,
+"Visible minority population","    Visible minority; n.i.e.",100,       0,,      10,,       0,,       0,,       0,,       0,
+"Visible minority population","    Multiple visible minorities",101,      25,,      10,,      10,,       0,,       0,,       0,
+"Visible minority population","  Not a visible minority",102,   11045,,    5430,,    5610,,    1210,,     520,,     685,
+
+Symbols:
+
+Notes:
+95, Visible minority refers to whether a person belongs to a visible minority group as defined by the Employment Equity Act and  if so  the visible minority group to which the person belongs. The Employment Equity Act defines visible minorities as "persons  other than Aboriginal peoples  who are non-Caucasian in race or non-white in colour." The visible minority population consists mainly of the following groups: South Asian  Chinese  Black  Filipino  Latin American  Arab  Southeast Asian  West Asian  Korean and Japanese.
+,For more information on the Visible minority variable  including information on its classification  the questions from which it is derived  data quality and its comparability with other sources of data  please refer to the Visible Minority and Population Group Reference Guide  Census of Population  2016.
+96, The Employment Equity Act defines visible minorities as 'persons  other than Aboriginal peoples  who are non-Caucasian in race or non-white in colour.'
+97, For example  'East Indian ' 'Pakistani ' 'Sri Lankan'  etc.
+98, For example  'Vietnamese ' 'Cambodian ' 'Laotian ' 'Thai ' etc.
+99, For example  'Afghan ' 'Iranian ' etc.
+100, The abbreviation 'n.i.e.' means 'not included elsewhere.' Includes persons with a write-in response such as 'Guyanese ' 'West Indian ' 'Tibetan ' 'Polynesian ' 'Pacific Islander ' etc.
+101, Includes persons who gave more than one visible minority group by checking two or more mark-in responses  e.g.  'Black' and 'South Asian.'
+102, Includes persons who reported 'Yes' to the Aboriginal group question (Question 18)  as well as persons who were not considered to be members of a visible minority group.
+
+Data quality:
+Brock; Township [Census subdivision]; Ontario
+Global non-response rate (GNR)  short-form census questionnaire: 5.4%
+Global non-response rate (GNR)  long-form census questionnaire: 5.5%
+
+Sunderland [Population centre]; Ontario
+Global non-response rate (GNR)  short-form census questionnaire: 3.8%
+Global non-response rate (GNR)  long-form census questionnaire: 7.3%
+
+
+"Source: Statistics Canada, 2016 Census of Population."
+
+How to cite: Statistics Canada. 2017. Census Profile. 2016 Census.
+Statistics Canada Catalogue no. 98-316-X2016001. Ottawa. Released November 29 2017.
+http://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/index.cfm?Lang=E

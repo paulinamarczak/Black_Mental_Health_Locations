@@ -1,0 +1,48 @@
+,,,"Pickering, City [Census subdivision], Ontario",,,,,,"Ontario [Province]"
+"Topic","Characteristics","Note","Total","Flag_Total","Male","Flag_Male","Female","Flag_Female","Total","Flag_Total","Male","Flag_Male","Female","Flag_Female"
+,,,"Counts (unless otherwise specified)",,,,,,
+"Visible minority population","Total - Visible minority for the population in private households - 25% sample data",95,   90995,,   44255,,   46740,,13242160,, 6472240,, 6769920,
+"Visible minority population","  Total visible minority population",96,   39050,,   18675,,   20370,, 3885585,, 1878075,, 2007505,
+"Visible minority population","    South Asian",97,   13820,,    6945,,    6865,, 1150415,,  582010,,  568400,
+"Visible minority population","    Chinese",,    2455,,    1180,,    1275,,  754550,,  359230,,  395315,
+"Visible minority population","    Black",,    9810,,    4570,,    5245,,  627715,,  296270,,  331445,
+"Visible minority population","    Filipino",,    3410,,    1435,,    1975,,  311675,,  132440,,  179230,
+"Visible minority population","    Latin American",,    1135,,     575,,     560,,  195950,,   93645,,  102310,
+"Visible minority population","    Arab",,    1520,,     810,,     715,,  210435,,  109585,,  100850,
+"Visible minority population","    Southeast Asian",98,     400,,     160,,     245,,  133855,,   63255,,   70605,
+"Visible minority population","    West Asian",99,    1580,,     770,,     805,,  154670,,   77385,,   77280,
+"Visible minority population","    Korean",,     295,,     130,,     165,,   88935,,   42445,,   46495,
+"Visible minority population","    Japanese",,     310,,     150,,     155,,   30830,,   13595,,   17235,
+"Visible minority population","    Visible minority; n.i.e.",100,    2285,,     990,,    1300,,   97970,,   46105,,   51860,
+"Visible minority population","    Multiple visible minorities",101,    2030,,     970,,    1060,,  128585,,   62105,,   66485,
+"Visible minority population","  Not a visible minority",102,   51945,,   25580,,   26370,, 9356575,, 4594165,, 4762410,
+
+Symbols:
+
+Notes:
+95, Visible minority refers to whether a person belongs to a visible minority group as defined by the Employment Equity Act and  if so  the visible minority group to which the person belongs. The Employment Equity Act defines visible minorities as "persons  other than Aboriginal peoples  who are non-Caucasian in race or non-white in colour." The visible minority population consists mainly of the following groups: South Asian  Chinese  Black  Filipino  Latin American  Arab  Southeast Asian  West Asian  Korean and Japanese.
+,For more information on the Visible minority variable  including information on its classification  the questions from which it is derived  data quality and its comparability with other sources of data  please refer to the Visible Minority and Population Group Reference Guide  Census of Population  2016.
+96, The Employment Equity Act defines visible minorities as 'persons  other than Aboriginal peoples  who are non-Caucasian in race or non-white in colour.'
+97, For example  'East Indian ' 'Pakistani ' 'Sri Lankan'  etc.
+98, For example  'Vietnamese ' 'Cambodian ' 'Laotian ' 'Thai ' etc.
+99, For example  'Afghan ' 'Iranian ' etc.
+100, The abbreviation 'n.i.e.' means 'not included elsewhere.' Includes persons with a write-in response such as 'Guyanese ' 'West Indian ' 'Tibetan ' 'Polynesian ' 'Pacific Islander ' etc.
+101, Includes persons who gave more than one visible minority group by checking two or more mark-in responses  e.g.  'Black' and 'South Asian.'
+102, Includes persons who reported 'Yes' to the Aboriginal group question (Question 18)  as well as persons who were not considered to be members of a visible minority group.
+
+Data quality:
+Pickering; City [Census subdivision]; Ontario
+Global non-response rate (GNR)  short-form census questionnaire: 2.8%
+Global non-response rate (GNR)  long-form census questionnaire: 3.8%
+
+Ontario [Province]
+Excludes census data for one or more incompletely enumerated Indian reserves or Indian settlements.
+Global non-response rate (GNR)  short-form census questionnaire: 3.7%
+Global non-response rate (GNR)  long-form census questionnaire: 4.6%
+
+
+"Source: Statistics Canada, 2016 Census of Population."
+
+How to cite: Statistics Canada. 2017. Census Profile. 2016 Census.
+Statistics Canada Catalogue no. 98-316-X2016001. Ottawa. Released November 29 2017.
+http://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/index.cfm?Lang=E
